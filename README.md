@@ -2,7 +2,7 @@ Explore binary trees effortlessly with BinaryVista&mdash;a user-friendly project
 
 I have divided the whole project into 6 tasks for better clarity and step by step learning.
 
-Also I have added the test code into the test folder to test your each task with all the edge cases.
+Also I have added the test code in the binaryvistatest.js file to test your each task with all the edge cases.
 
 Command to run the code: node binary_vista.js
 
