@@ -1,5 +1,9 @@
 Explore binary trees effortlessly with BinaryVista&mdash;a user-friendly project for hands-on tasks like insertion, deletion, and traversal. Master programming essentials, enhance logical reasoning, and gain insights into data manipulation. Follow task specifications and use templates provided for a streamlined experience. BinaryVista is your gateway to a well-rounded understanding of programming and binary tree exploration.   
 
+I have divided the whole project into 6 tasks for better clarity and step by step learning.
+
+Also I have added the test code into the test folder to test your each task with all the edge cases.
+
 Command to run the code: node binary_vista.js
 
 <h3>Task Description:</h3>
